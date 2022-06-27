@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "721774015255",
+    "project_id": "vont-6bbdf",
+    "storage_bucket": "vont-6bbdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721774015255:android:c3962b41f591f80b3e7d52",
+        "android_client_info": {
+          "package_name": "com.example.vontoilproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721774015255-vicdn1ngf2d4thet1so7ksj7umdfbc3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vontoilproject",
+            "certificate_hash": "b4ad0b927a120ecbe70c9ec35e5613e983510803"
+          }
+        },
+        {
+          "client_id": "721774015255-7t3utjgatbbkslba7tjufb7mutpoca8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwTEhpaQsXgyN6YkOpJNMNt9MkZyKkSjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721774015255-7t3utjgatbbkslba7tjufb7mutpoca8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
